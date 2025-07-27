@@ -1,4 +1,4 @@
-package com.dio.POO.abtracao_encapsulamento.exercicios;
+package com.dio.POO.exercicios.abtracao_encapsulamento.exercicios;
 
 public class ContaBancaria {
 
